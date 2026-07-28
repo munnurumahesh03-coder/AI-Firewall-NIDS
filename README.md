@@ -1,4 +1,4 @@
-# AI-Firewall-IDS
+# AI-Firewall-NIDS
 ### A Deep Dive into Deep Learning and Cybersecurity for Network Traffic Classification
 
 **Project Status: Completed & Deployed**
